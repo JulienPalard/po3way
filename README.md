@@ -52,7 +52,11 @@ silently.
 
 Let alone this very specific case, `po3way` often provide very clean
 and understandable conflicts which are easier to merge than "normal"
-conflicts.
+conflicts, like:
+
+![](https://user-images.githubusercontent.com/239510/190021277-2660f7e5-e642-4287-90f8-d68664512a31.png)
+
+where the base was fuzzy, remote fixed it, but local updated again!
 
 
 ## How it works
